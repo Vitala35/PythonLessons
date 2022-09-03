@@ -41,4 +41,9 @@ if option == '/':
     print(a / b)
 if option == '*':
     print(a * b)
-
+if option == 'pow':
+    print(a ** b)
+if option == 'mod':
+    print(a % b)
+if option == 'div':
+    print(a // b)
