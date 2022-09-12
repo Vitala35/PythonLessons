@@ -25,7 +25,7 @@ import math
 #     print(3.14 * (r ** 2))
 
 # a = int(input('Enter number a:'))
-# if a > -15 and a <= 12 or a > 14 and a < 17 or a > 19:
+# if a > -15 and a <= 12 or a > 14 and a < 17 or a > 19:#?
 #     print(True)
 # else:
 #     print(False)

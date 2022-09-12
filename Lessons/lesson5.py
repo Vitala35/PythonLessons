@@ -5,7 +5,7 @@
 # city = ['Kiev', 'Madrid', 'Lviv', 'Chernivtsi']
 # number = 1
 # for i in city:
-#     print(i, '-', number)
+#     print(i, '-', number) #?
 #     number += 1
 
 
@@ -39,7 +39,7 @@
 
 # name = ['Nazar', 'Taras', 'Ivan', 'Andriy', 'Dan']
 # for i in name:
-#     if len(i) > 4:
+#     if len(i) > 4: #?
 #         print(f'{i} this name is realise')
 #     else:
 #         print('Any numbers')
@@ -56,3 +56,18 @@
 #
 # print(naw_element / len(lst))
 
+
+# car = ['Audi', 'Reno', 'Tesla', 'Ferari']
+# count = 1
+# for i in car:
+#     print(f'{i} -!- {count}')
+#     count += 1
+
+
+# a = int(input('Enter your number a: '))
+# b = int(input('Enter your number b: '))
+# c = int(input('Enter your number c: '))
+# if c >= a and c < b:
+#     print(True)
+# else:
+#     print(False)
